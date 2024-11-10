@@ -4,3 +4,6 @@ numpy
 matplotlib
 seaborn
 statsmodels
+tensorflow
+keras
+pmdarima
